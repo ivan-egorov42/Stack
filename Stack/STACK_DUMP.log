@@ -1,0 +1,33 @@
+
+Tue Dec 22 12:34:35 2020
+
+Stack was created.
+
+		STACK DUMP
+Status: 0xc7ac
+Size: 11
+Capacity: 12
+Hash summ: 5267
+Poison: -666
+Canary: 0x2237ea177
+Stack Pointer: 0x1ffefffd70
+Stack elements:
+
+	stack.canary = 9185436023
+	stack.elem[0] = 5
+	stack.elem[1] = 125
+	stack.elem[2] = 12
+	stack.elem[3] = 5
+	stack.elem[4] = 12
+	stack.elem[5] = 5
+	stack.elem[6] = 12
+	stack.elem[7] = 5
+	stack.elem[8] = 12
+	stack.elem[9] = 51
+	stack.elem[10] = 25
+	stack.elem[11] = -666
+	stack.canary = 9185436023
+
+Tue Dec 22 12:34:45 2020
+
+Stack was deleted.
